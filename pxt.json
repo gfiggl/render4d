@@ -1,5 +1,5 @@
 {
-    "name": "render3d",
+    "name": "render4d",
     "description": "",
     "dependencies": {
         "device": "*"

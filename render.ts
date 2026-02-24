@@ -16,7 +16,7 @@ namespace render {
      * data->color
      */
     export interface FragShader {
-        (data: uint32[]): uint8
+        (data: uint32): uint8
     }
 
     /**dot product - x1 \* x2 + y1 \* y2 + z1 \* z2*/
